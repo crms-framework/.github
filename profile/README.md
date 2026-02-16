@@ -48,12 +48,12 @@
 
  | Repository | Description |
  |-----------|-------------|
- | [**crms-server**](https://github.com/CRMS-FRAMEWORK/crms-server) | Backend API — NestJS 11, Prisma, PostgreSQL (22 modules, 29 data models) |
- | [**crms-client**](https://github.com/CRMS-FRAMEWORK/crms-client) | Web Dashboard — Next.js 16 PWA with 127+ components (shadcn/ui, Tailwind CSS,
+ | [**server**](https://github.com/CRMS-FRAMEWORK/server) | Backend API — NestJS 11, Prisma, PostgreSQL (22 modules, 29 data models) |
+ | [**client**](https://github.com/CRMS-FRAMEWORK/client) | Web Dashboard — Next.js 16 PWA with 127+ components (shadcn/ui, Tailwind CSS,
  Leaflet maps) |
- | [**crms-docs**](https://github.com/CRMS-FRAMEWORK/crms-docs) | Official documentation — 8 sections, 91+ pages (architecture, API reference, deployment
+ | [**docs**](https://github.com/CRMS-FRAMEWORK/docs) | Official documentation — 8 sections, 91+ pages (architecture, API reference, deployment
   guides) |
- | [**crms-install**](https://github.com/CRMS-FRAMEWORK/crms-install) | Deployment — Docker Compose, Dockerfiles, and infrastructure scripts |
+ | [**install**](https://github.com/CRMS-FRAMEWORK/install) | Deployment — Docker Compose, Dockerfiles, and infrastructure scripts |
 
  ---
 
